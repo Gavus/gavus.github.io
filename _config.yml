@@ -3,7 +3,7 @@ title: Ylvis
 email: "todo"
 description: "min beskrivning"
 url: "https://gavus.github.io"
-baseurl: "/gavus"
+baseurl: "/gavus.github.io"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,7 +33,7 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://gavus.github.io/gavus/gallery/"  
+  - GALLERY: "https://gavus.github.io/gavus/gallery/"
   - JOURNAL: "https://gavus.github.io/gavus/journal/"
   - ABOUT: "https://gavus.github.io/gavus/about/"
 
