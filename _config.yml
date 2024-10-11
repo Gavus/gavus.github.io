@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+title: Ylvis
+email: "todo"
+description: "min beskrivning"
+url: "https://gavus.github.io"
+baseurl: "/gavus"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   potatis
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -57,6 +57,7 @@ permalink: "/journal/:title/"
 categories_path: "/journal/category/"
 tags_path: "/journal/tag/"
 gems: 
+ - webrick
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
